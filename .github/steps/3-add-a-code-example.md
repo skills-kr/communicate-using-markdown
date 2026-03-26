@@ -9,12 +9,12 @@
 
 ````md
 ```bash
-git clone https://github.com/skills/communicate-using-markdown
+git clone https://github.com/skills-kr/communicate-using-markdown
 ```
 ````
 
 ```bash
-git clone https://github.com/skills/communicate-using-markdown
+git clone https://github.com/skills-kr/communicate-using-markdown
 ```
 
 ### 예시: JavaScript 코드
